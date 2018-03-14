@@ -60,16 +60,26 @@
 
   /* 4 columns */
   .col-4 {
+<<<<<<< HEAD
     width: 33.3%;
+=======
+>>>>>>> 12cf0ffa24ffc57509dc1cc2164ad7144f25e363
   }
 
   /* 6 columns */
   .col-6 {
+<<<<<<< HEAD
     width: 50%;
+=======
+
+>>>>>>> 12cf0ffa24ffc57509dc1cc2164ad7144f25e363
   }
 
   /* 12 columns */
   .col-12 {
+<<<<<<< HEAD
     width: 100%;
+=======
+>>>>>>> 12cf0ffa24ffc57509dc1cc2164ad7144f25e363
   }
 }
